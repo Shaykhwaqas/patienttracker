@@ -1185,7 +1185,7 @@ function printRecord() {
 	});
 }
 function aboutUs() {
-	swal("Patient Tracker v1.0", "This App will help the doctors or staff members to perform all the necessary tasks related to patient. You can easily maintain patients' records. This App is developed by S.M.Rizwan.\n\n Contact: +92331-2278339\n E-mail:smrizwan54@gmail.com", {
+	swal("Patient Tracker v1.0", "This App will help the doctors or staff members to perform all the necessary tasks related to patient. You can easily maintain patients' records. This App is developed by Patient Tracker Team.\n\n Contact: +92345-2060850\n E-mail:shaykhwaqas1@gmail.com", {
 		className: "sweet-alert-icon",
 		icon: "icons/patient_icon.png"
 	});
